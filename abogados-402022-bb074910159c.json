@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "abogados-402022",
+  "private_key_id": "bb074910159c07e67de1cab3b1a582d037901750",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+sPkUJMcE3/re\nQF9P1QXPlZy2/un5rg1KvWstmAho5G7Z5HVDNbv6z6CQRGymi02+OysDiuQJ8+aX\nFC/F5VzkOCXJ7vsIc5XFeqwMduQ1Wpfy1aCVZ7H4jRtJS8cTjwk6lQCbyNc8oO6u\n2feI/GJ0V00qMJ3XtHf17YD8Txv/rZOkih9bbRv/lJQ6f9vjwcWGJhKaUPhuT1jF\nUlRt9lKX9bMFpnPrb9bQ8hB3q5YoBeqiaHOkxjhgyuaBLnk5jD5gMz1O1Ex2MPAV\ni2gnXPlK3Z8sPRiYu36G2RAxZf0n6Kc/gK9QYBwFjZPpFyGlpLVpsEo8LrSfy6Go\nlbek21j1AgMBAAECggEACTUpacgW1gzso6OvFn8+PxZF0W5ApP47BRNdY/+11D7H\nfXzzDpI/J+6znZO4PVh3ogpgWtTviu18gmoGnoMjN5/gbz47X96Y6kawnQ92mH7t\n3FtlXCF8Lfi+Sw0+KRscgngkZeFOR06sB8Rdl/87z8tRXgqn7Hz51+Wmd0honTFS\nkzQXYFiSB27APNDy2b7930Iy1e9/Z950NwOv96txCaesEL8WfA56jg22Z6E8sX+B\nJ7b/YLsolIVnreJNEAYAR7Z9kEqzpLacpqYgllrNdR9Z8uaOnJX4qxb3tFeEu2Ew\n8bXEMK8Omf/WJ/wJFj1A+kxTWzfKNN9unuz1tBclVwKBgQDpwDTqTiengwfFfTCc\nMrHWk58DG/C5hLNiLanw9rGH6sVZSibo6RDaNE0U51IE6T+o6CBjD0Nor4x0cqB9\ncIL9JmGWYGu8zng7oyKaRaZzTjLuig2dRaALts/lvZzq2Sjl30LhwhKdivZxJctV\nMLJwpNTwZom1wcsfVZ8BjPEt0wKBgQDQ14mfUNMyjgqrlYiNGEJ8F9slUzsLtxmh\nc01hX8Z+dptHdMgMg7BHmemrALR4T01NewHg9RagT/dHrwQt1aaoHDBHnHpx2fAr\nyj3UHLyQwJ2o4y+kfWjtfRrby4AtS49P4oJ+MxIh99Mb0fal98U7TL1yYibNOTPh\nJbxK+yr5FwKBgDlFP3G8zlhrcScA4j0S6qGRL596ZAOAMNc4Ku//8UVEzy9uTJQ6\nLkfYEp6xglXztAY1QWIj5jcq87XAM/Qn8eAGXFiUrTDoQWsTMDIuKHcNzMrHBkjn\nOyxDkTJPv7eGl0+i4OchPqBc4L6eLPBlawLQT9/Kr6jZn2PA/aFKn/jDAoGBAJ9B\nPbk3sVYD6y8dQJwXu9tVdc/owEYWwnzTqFZw6rTVTWQYMdUZNvvi6sV0LCryjkhf\nXPdm7nIhiLgpRk6NdiEMHeT99oGLaBJ8jtmJcGISACgh1trgp3syw6CIdp4T2J1a\nZZhG6bTtfxbf7e5yGv01b+Ih5uTokh9G32duUT7RAoGBAOj/0h1aietK5SK5Uwwb\nMr8mN+akgnXOPZkdjRmM29RrMEJinXpdlHvaxaKO5IXqTRcLxT3QmlYMHWoDebxk\n4WdIeqUdX+PaD7RQPs2+BJ8KSJvT6Tiz3xlN1/3xkhHjH3sKHSI6Cr89LaEAznKP\nSfww2/+RCvpn4vBCCABIGGV6\n-----END PRIVATE KEY-----\n",
+  "client_email": "abogados@abogados-402022.iam.gserviceaccount.com",
+  "client_id": "106872237108901511951",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/abogados%40abogados-402022.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
